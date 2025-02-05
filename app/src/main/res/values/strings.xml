@@ -1,0 +1,202 @@
+<resources>
+    //login
+    <string name="app_name">PawsomePetCare</string>
+    <string name="landing_title_1">Discover the best for your furry friends at PawSome!</string>
+    <string name="landing_title_2">Find and shop for the best pet supplies from the comfort of your home</string>
+    <string name="landing_button_text">Let\'s Get Started</string>
+    <string name="landing_redirect_text">Already have an account?</string>
+    <string name="lading_redirect_button_text">Log In</string>
+    <string name="login_title">Log In</string>
+    <string name="login_name_text_field">JohnDoe</string>
+    <string name="login_password_text_field">Password</string>
+    <string name="login_button_text">Log In</string>
+    <string name="login_redirect_to_sign_up">Don\'t have an account?</string>
+    <string name="login_redirect_to_sign_clickable_text"> Register</string>
+    <string name="login_user_name_desc">Email</string>
+    <string name="login_password_desc">Password</string>
+    //signup
+    <string name="signup_title">Sign Up</string>
+    <string name="signup_name_text_field">Name</string>
+    <string name="signup_user_name_text_field">Username</string>
+    <string name="signup_password_text_field">Password</string>
+    <string name="signup_email">E-mail</string>
+    <string name="signup_tele">Telephone</string>
+    <string name="signup_dOb">Date of birth</string>
+    <string name="signup_button_text">Sign Up</string>
+    <string name="signup_redirect_to_sign_up">Already have an account?</string>
+    <string name="signup_redirect_to_sign_clickable_text">Log In</string>
+    <string name="signup_name_desc">name</string>
+    <string name="signup_user_name_desc">User name</string>
+    <string name="signup_password_desc">Password</string>
+    <string name="signup_tele_desc">Password</string>
+    <string name="signup_email_desc">E-mail</string>
+
+    //Home page
+    <string name="featured">Today\'s Picks</string>
+    <string name="home_search">Search</string>
+    <string name="home_greeting">Welcome John!</string>
+    <string name="home_greeting_two">Welcome to Pawsome Pet Care</string>
+
+    //Services Page
+    <string name="services_title">Explore Our Services</string>
+    <string name="services_sub_title">Doggy Day Care</string>
+    <string name="services_sub_desc">Ensure you furry friend is well cared for in a safe and fun environment</string>
+    <string name="services_title_3">Loving Care</string>
+    <string name="services_title_3_desc">We treat your pets like our own, showering them with love and attention</string>
+    <string name="services_title_4">Tailored to Your Liking</string>
+    <string name="services_title_4_desc">Our services fit your lifestyle. Offering flexible care for your pet</string>
+    <string name="services_title_5">All Inclusive Pet Joy</string>
+    <string name="services_title_5_desc">Everything your pet needs for happiness, all in one place</string>
+    <string name="services_title_6">Effortless Peace of Mind</string>
+    <string name="services_title_6_desc">Relax with easy booking, knowing your pet is in loving, safe hands</string>
+    <string name="services_booking_title">Give the Care Your Pets Deserve While You\'re Away</string>
+    <string name="booking_petname">Enter Your Pets Name</string>
+    <string name="booking_petage">Enter Your Pets Age</string>
+    <string name="booking_petnotes">Additional Notes</string>
+    <string name="booking_drop">Drop-off Date</string>
+    <string name="booking_pick">Pick-up Date</string>
+    <string name="booking_button">Confirm</string>
+    //carousel desc
+    <string name="services_c_service_1">Dog in a doggy daycare sniffing the camera</string>
+    <string name="services_c_service_2">Dog in a doggy daycare sniffing the camera</string>
+    <string name="services_c_service_3">Dog in a doggy daycare sniffing the camera</string>
+    <string name="services_c_service_4">Dog in a doggy daycare sniffing the camera</string>
+    <string name="services_c_service_5">Dog in a doggy daycare sniffing the camera</string>
+    <string name="services_c_service_6">Dog in a doggy daycare sniffing the camera</string>
+
+
+    //Profile order history
+    <string name="order_number_label">Order Number</string>
+    <string name="date_label">Date</string>
+    <string name="total_label">Total</string>
+    <string name="arrival_date_label">Arrival Date</string>
+    <string name="quantity_label">Quantity</string>
+    <string name="price_label">Price</string>
+
+//dog products
+    <string name="royal_canine_puppy_food">Royal Canine Puppy Food</string>
+    <string name="royal_canine_puppy_price">$29.99</string>
+    <string name="royal_canine_puppy_desc">Royal Canine\'s specialized formula designed to support the healthy growth of puppies. Packed with high-quality protein, essential vitamins, and minerals, it ensures optimal development for strong bones and a robust immune system.</string>
+
+    <string name="black_hawk_puppy_food">Black Hawk Puppy Food</string>
+    <string name="black_hawk_puppy_price">$24.99</string>
+    <string name="black_hawk_puppy_desc">Nutritionally balanced Black Hawk Puppy Food, crafted with real meat and whole grains to provide puppies with the essential nutrients needed for optimal growth, energy, and digestive health.</string>
+
+    <string name="black_hawk_adult_food">Black Hawk Adult Dog Food</string>
+    <string name="black_hawk_adult_price">$39.99</string>
+    <string name="black_hawk_adult_desc">Black Hawk Adult Dog Food provides a complete and balanced diet, formulated with high-quality protein and natural ingredients to help maintain your dog’s overall health, strong muscles, and shiny coat.</string>
+
+    <string name="drools_puppy_food_combo">Drools Puppy Food Combo</string>
+    <string name="drools_puppy_combo_price">$34.99</string>
+    <string name="drools_puppy_combo_desc">Drools Puppy Food Combo offers a mix of essential nutrients for balanced growth and development. This combo pack is designed to support your puppy’s energy levels, immune system, and digestive health, ensuring they grow into healthy adults.</string>
+
+    <string name="drools_adult_dog_food">Drools Adult Dog Food</string>
+    <string name="drools_adult_food_price">$29.99</string>
+    <string name="drools_adult_food_desc">Premium Drools Adult Dog Food is enriched with vitamins, minerals, and omega fatty acids, providing the nourishment required to keep your dog energetic and maintain their coat’s luster, while supporting digestive and immune health.</string>
+
+    <string name="beaphar_paste">Beaphar Vitamin Paste</string>
+    <string name="beaphar_paste_price">$14.99</string>
+    <string name="beaphar_paste_desc">Beaphar Vitamin Paste is a combination of vitamins, minerals, and prebiotics, designed to enhance your dog’s overall health. The two-in-one paste improves digestion, boosts energy levels, and supports the immune system, making it an excellent daily supplement.</string>
+
+    <string name="beaphar_joint_tablets">Beaphar Joint Tablets</string>
+    <string name="beaphar_joint_tablets_price">$19.99</string>
+    <string name="beaphar_joint_tablets_desc">Beaphar Joint Tablets are specially formulated with glucosamine and chondroitin to support joint health. These tablets are ideal for dogs of all ages, helping to maintain healthy cartilage and improve mobility, particularly in older or more active dogs.</string>
+
+    <string name="water_dispenser">Automatic Water Dispenser</string>
+    <string name="water_dispenser_price">$25.99</string>
+    <string name="water_dispenser_desc">The Automatic Water Dispenser ensures your dog always has access to fresh, clean water. Its large capacity and self-filling system make it perfect for busy pet owners, reducing the need for constant refills and keeping your pet hydrated throughout the day.</string>
+
+
+//cat products
+    <string name="nutra_nuggets_cat_food">Nutra Nuggets Cat Food</string>
+    <string name="nutra_nuggets_cat_price">$24.99</string>
+    <string name="nutra_nuggets_cat_desc">Nutra Nuggets Cat Food is formulated with high-quality protein and essential fats to promote lean muscle mass, healthy skin, and a shiny coat. Ideal for adult cats to maintain energy and vitality.</string>
+
+    <string name="whiskas_kitten_food">Whiskas Kitten Food</string>
+    <string name="whiskas_kitten_price">$18.99</string>
+    <string name="whiskas_kitten_desc">Whiskas Kitten Food is designed to provide kittens with the nutrients they need for growth and development. Enriched with milk proteins, vitamins, and minerals to support their immune system and build strong bones.</string>
+
+    <string name="drools_kitten_food">Drools Kitten Food</string>
+    <string name="drools_kitten_price">$22.99</string>
+    <string name="drools_kitten_desc">Drools Kitten Food delivers a balanced mix of proteins, fats, and minerals to help your kitten grow into a healthy adult. With added taurine and DHA, it supports brain development and a strong heart.</string>
+
+    <string name="whiskas_combo_pack">Whiskas Combo Pack</string>
+    <string name="whiskas_combo_price">$34.99</string>
+    <string name="whiskas_combo_desc">The Whiskas Combo Pack includes a variety of flavors to satisfy even the pickiest eaters. Rich in protein and essential nutrients, this combo pack ensures a balanced diet for cats of all life stages.</string>
+
+    <string name="whiskas_treats">Whiskas Cat Treats</string>
+    <string name="whiskas_treats_price">$9.99</string>
+    <string name="whiskas_treats_desc">Whiskas Cat Treats are crunchy, flavorful snacks your cat will love. Packed with nutrients, these treats are perfect for rewarding good behavior while providing additional vitamins for their health.</string>
+
+    <string name="whiskas_adult_cat_food">Whiskas Adult Cat Food</string>
+    <string name="whiskas_adult_cat_price">$27.99</string>
+    <string name="whiskas_adult_cat_desc">Whiskas Adult Cat Food is made with real meat and fish, providing a complete and balanced diet. It\'s packed with proteins, vitamins, and essential fats to keep your cat active and healthy.</string>
+
+    <string name="neutrals_cat_food">Neutrals Cat Food</string>
+    <string name="neutrals_cat_price">$21.99</string>
+    <string name="neutrals_cat_desc">Neutrals Cat Food is a grain-free formula with natural ingredients, ideal for cats with sensitive stomachs. Rich in proteins and antioxidants, it supports digestion and strengthens the immune system.</string>
+
+    <string name="drools_cat_family_pack">Drools Cat Family Pack</string>
+    <string name="drools_cat_family_price">$39.99</string>
+    <string name="drools_cat_family_desc">Drools Cat Family Pack offers a complete food solution for households with multiple cats. Its balanced formula ensures that each cat receives optimal nutrition, promoting good health and energy.</string>
+
+    <string name="black_hawk_cat_food">Black Hawk Cat Food</string>
+    <string name="black_hawk_cat_price">$32.99</string>
+    <string name="black_hawk_cat_desc">Black Hawk Cat Food is made with real meat, delivering a nutritious and delicious meal. It’s packed with essential vitamins and minerals for your cat’s overall health, promoting strong muscles and a shiny coat.</string>
+
+    <string name="royal_canine_cat_food">Royal Canine Cat Food</string>
+    <string name="royal_canine_cat_price">$36.99</string>
+    <string name="royal_canine_cat_desc">Royal Canine Cat Food is a scientifically formulated blend of high-quality ingredients. It supports your cat\'s digestive system, skin health, and coat quality, providing a balanced and complete diet.</string>
+
+    <string name="reflex_cat_food">Reflex Cat Food</string>
+    <string name="reflex_cat_price">$29.99</string>
+    <string name="reflex_cat_desc">Reflex Cat Food offers premium nutrition with added omega fatty acids for skin and coat health. This well-balanced formula supports digestion and provides the energy your cat needs for an active lifestyle.</string>
+
+    <string name="be_human_cat_food">Be Human Cat Food</string>
+    <string name="be_human_cat_price">$19.99</string>
+    <string name="be_human_cat_desc">Be Human Cat Food is crafted with ethically sourced ingredients, providing a natural and sustainable food option. It’s rich in vitamins and minerals, ensuring your cat gets a wholesome, healthy meal every time.</string>
+
+    <string name="small_cage">Small Pet Cage</string>
+    <string name="small_cage_price">$49.99</string>
+    <string name="small_cage_desc">Compact and cozy cage perfect for small pets like hamsters and guinea pigs.</string>
+
+    <string name="medium_cage">Medium Pet Cage</string>
+    <string name="medium_cage_price">$79.99</string>
+    <string name="medium_cage_desc">Spacious cage suitable for rabbits and other medium-sized pets, with plenty of room to roam.</string>
+
+    <string name="large_cage">Large Pet Cage</string>
+    <string name="large_cage_price">$129.99</string>
+    <string name="large_cage_desc">A spacious and durable cage ideal for larger pets like cats or multiple small animals.</string>
+
+    <string name="gem_pharma_worms_out">Gem Pharma Worms Out</string>
+    <string name="gem_pharma_worms_out_price">$22.99</string>
+    <string name="gem_pharma_worms_out_desc">An effective treatment for eliminating worms and parasites in birds.</string>
+
+    <string name="gem_pharma_all_in_one">Gem Pharma All-In-One</string>
+    <string name="gem_pharma_all_in_one_price">$24.99</string>
+    <string name="gem_pharma_all_in_one_desc">A comprehensive formula providing essential vitamins and minerals for birds.</string>
+
+    <string name="gem_pharma_respiratory">Gem Pharma Respiratory Support</string>
+    <string name="gem_pharma_respiratory_price">$21.99</string>
+    <string name="gem_pharma_respiratory_desc">A tonic designed to support respiratory health in birds.</string>
+
+    <string name="gem_pharma_multivitamin">Gem Pharma Multivitamin</string>
+    <string name="gem_pharma_multivitamin_price">$19.99</string>
+    <string name="gem_pharma_multivitamin_desc">A high-quality multivitamin supplement to promote overall well-being in birds.</string>
+    <string name="our_new_store">Our New Store</string>
+    <string name="openning">Come visit us as our latest store with all the exciting things for your pets</string>
+    <string name="grooming">Best of the Best</string>
+    <string name="grooming_1">Leave your pet with us for the best care</string>
+    <string name="cart_confirm">Proceed to Checkout</string>
+    <string name="cart_sub">Thank you for shopping with us! Your checkout page will appear shortly.</string>
+    <string name="cart_thankyou">Thank You!</string>
+    <string name="sub_total">Sub-total</string>
+    <string name="sub_total_2">$210.00</string>
+    <string name="shipping">Shipping</string>
+    <string name="shipping_total">$14.00</string>
+    <string name="remove_from_favorites">Remove from favorites</string>
+    <string name="buy">Buy</string>
+    <string name="ok">OK</string>
+    <string name="confirm">Confirm</string>
+
+</resources>

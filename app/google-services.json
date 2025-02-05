@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "54175541839",
+    "project_id": "pawsomekotlin",
+    "storage_bucket": "pawsomekotlin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54175541839:android:4bd04bdec9fb33e7b4583a",
+        "android_client_info": {
+          "package_name": "com.example.pawsomepetcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8rGp7D27mQY-992-JhWAZSO1XSls2v2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
