@@ -35,9 +35,11 @@ import androidx.navigation.compose.rememberNavController
 import com.example.pawsomepetcare.Authentications.AuthState
 import com.example.pawsomepetcare.Authentications.AuthViewModel
 import com.example.pawsomepetcare.R
+import com.example.pawsomepetcare.ViewModels.FeaturedViewModel
 import com.example.pawsomepetcare.data.DataSource
 import com.example.pawsomepetcare.navigation.Screens
 import com.example.pawsomepetcare.ui.Common.ProductCardOne
+import com.example.pawsomepetcare.ui.Common.ProductList
 import com.example.pawsomepetcare.ui.Common.SearchBar
 import com.example.pawsomepetcare.ui.theme.PawsomePetCareTheme
 
@@ -52,6 +54,7 @@ fun HomeScreen(navController: NavController, modifier: Modifier = Modifier, auth
     val birdProducts = DataSource().loadBirdProducts()
     val newslist = DataSource().loadNews()
     val authState = authViewModel.authState.observeAsState()
+    val featuredViewModel = remember { FeaturedViewModel() }
 
     LaunchedEffect(authState.value) {
         when(authState.value){
@@ -76,6 +79,12 @@ fun HomeScreen(navController: NavController, modifier: Modifier = Modifier, auth
         SearchBar()
         Spacer(modifier = Modifier.height(15.dp))
         NewsPager(newsList = newslist)
+        Text(
+            text = "Featured",
+            textAlign = TextAlign.Left,
+            modifier = Modifier.fillMaxWidth().padding(start = 0.dp, bottom = 6.dp)
+        )
+        ProductList(featuredViewModel)
         Spacer(modifier = Modifier.height(15.dp))
         Text(
             text = stringResource(R.string.featured),

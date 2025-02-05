@@ -222,7 +222,7 @@ fun SignUpScreen(navController: NavHostController, modifier: Modifier = Modifier
 
                 // Date Picker
                Row(
-                   modifier = Modifier.padding(horizontal = 60.dp)
+                   modifier = Modifier.padding(horizontal = 30.dp)
                ) {
                    DatePickerDocked("Birthday")
                }

@@ -36,11 +36,14 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
+import com.example.pawsomepetcare.ViewModels.FeaturedViewModel
 import com.example.pawsomepetcare.data.DataSource
 import com.example.pawsomepetcare.ui.Common.ProductCardOne
+import com.example.pawsomepetcare.ui.Common.ProductList
 
 @Composable
 fun ProductDetails(productId: String, navController: NavController) {
+
     val colors = MaterialTheme.colorScheme
     val ftProducts = DataSource().loadFeaturedProducts()
     val product = DataSource().getProductById(productId)
